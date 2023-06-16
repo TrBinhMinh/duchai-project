@@ -1,0 +1,26 @@
+:root {
+  --main-cl: #1f497d;
+  --sub-cl-1: #e6e9f3;
+  --sub-cl-2: #002584;
+  --sub-cl-3: #ed1b24;
+  --sub-cl-4: #ccd3e6;
+  --sub-cl-5: #adb5bd;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  line-height: 1;
+  font-weight: 400;
+  color: #222;
+}
